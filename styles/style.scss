@@ -1,0 +1,54 @@
+@import './base/_fonts';
+@import './base/_vars';
+@import './base/_mixins';
+@import './base/_placeholders';
+@import './base/_base';
+@import './blocks/popup/_popup';
+@import './blocks/popup/_price-calc-popup';
+@import './blocks/popup/_show-of-photo';
+@import './blocks/spoller/_spoller';
+//------------------------------
+
+@import './blocks/header/_header';
+@import './blocks/header/_header-mobile';
+
+
+@import './blocks/introduction/_col-descr';
+@import './blocks/introduction/_col-product';
+@import './blocks/introduction/_intro-mobile';
+
+@import './blocks/calc-slid-door/_calc-advantages';
+@import './blocks/calc-slid-door/_calc-slider-door';
+@import './blocks/calc-slid-door/_col1-rows';
+@import './blocks/calc-slid-door/_opening-size';
+@import './blocks/calc-slid-door/_quantity-doors';
+
+@import './blocks/project/_carousel';
+@import './blocks/project/_prot-descr';
+
+@import './blocks/advantages/_advantages';
+
+@import './blocks/reviews/_reviews';
+@import './blocks/reviews/_cards';
+
+@import './blocks/stages-of-works/stages-of-works';
+
+@import './blocks/questions/_questions';
+
+@import './blocks/contacts/_contacts';
+
+@import './blocks/_pre-footer';
+
+
+
+@import './blocks/footer/_footer';
+@import './blocks/footer/_footer-contact';
+
+//------------------------------
+
+@import './blocks/pages-scss/_user-agree';
+@import './blocks/pages-scss/_confidentially';
+
+.none {
+  display: none;
+}
